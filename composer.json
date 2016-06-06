@@ -1,0 +1,12 @@
+{
+    "name": "wizacha/new-relic-polyfill",
+    "description": "Polyfill for the New Relic PHP extension",
+    "keywords": [ "new relic", "polyfill" ],
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "files": [
+            "src/NewRelic.php"
+        ]
+    }
+}
