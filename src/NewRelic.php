@@ -62,6 +62,10 @@ if (!extension_loaded('newrelic')) {
     {
     }
 
+    function newrelic_record_datastore_segment()
+    {
+    }
+
     function newrelic_set_appname()
     {
     }
